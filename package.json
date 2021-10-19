@@ -1,0 +1,9 @@
+{
+  "name": "nlw_heat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AllanPessin/nlw-heat.git",
+  "author": "AllanPessin",
+  "license": "MIT",
+  "private": false
+}
